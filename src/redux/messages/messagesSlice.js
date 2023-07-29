@@ -1,7 +1,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-const url = 'http://localhost:3000/api/v1/messages/random';
+const url = 'http://localhost:3000/';
 
 const initialState = {
   message: '',
