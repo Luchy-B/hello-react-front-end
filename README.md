@@ -46,8 +46,6 @@
     <li><a href="https://postgresql.org">PostgreSQL</a></li>
   </ul></details>
 
-
-
 # Link to Rails App
 
 > You can get the link to the rails backend below:
